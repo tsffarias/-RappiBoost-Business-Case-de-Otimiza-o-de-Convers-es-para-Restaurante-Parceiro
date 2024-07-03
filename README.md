@@ -38,10 +38,36 @@ Propostas específicas para melhorar a performance da carteira de restaurantes, 
      - "Pedido Solitidado (OP)" e "Pedidos Confirmados (OPC)" de até 10%.
      - "Visualizações de Produto (VPD)" e "Adições ao Carrinho (ATC)" de até 9%.
 
+<p align="center">
+    <img src = "./images/conversao_mensal_vertical_projecao_junho.png">
+</p>
+
+<p align="center">
+    <img src = "./images/conversao_mensal_carteira_projecao_junho.png">
+</p>
+
+<p align="center">
+    <img src = "./images/medias_taxas_conversao_funil_carteira_vertical.png">
+</p>
+
+
+
 2. **Existe algum insight do funil de conversão com as input metrics?**
    - A disponibilidade de lojas na carteira de restaurantes é consistentemente alta (98%) ao longo das semanas analisadas, e acima da média da vertical restaurante. Isso indica que as lojas da carteira estão geralmente disponíveis e prontas para atender pedidos, o que pode ser uma vantagem competitiva.
    - A disponibilidade de produtos na carteira de restaurantes varia entre 82% e 91% ao longo das semanas analisadas. Isso indica que há certa variabilidade.
    - A média de "% Desconto da carteira" é 5% e da "% Vertical Restaurantes" é de 11%. Podemos aumentar a taxa de desconto para a média da vertical de restaurante para atrair novos clientes.
+
+<p align="center">
+    <img src = "./images/disponibilidade_lojas_vertical_restaurante_carteira.png">
+</p>
+
+<p align="center">
+    <img src = "./images/disponibilidade_produto_vertical_restaurante_carteira.png">
+</p>
+
+<p align="center">
+    <img src = "./images/taxa_conversao_usuario12_vertical_restaurantes.png">
+</p>
 
 3. **O que você faria como proposta para crescer o funil de conversões como um todo da carteira?**
    - Realizar uma análise detalhada das causas raiz para a variabilidade na disponibilidade de produtos da carteira. Isso pode ajudar a melhorar a eficiência operacional e a satisfação do cliente (menores cancelamentos e por consequência maior conversão).
